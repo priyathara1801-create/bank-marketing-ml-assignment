@@ -59,7 +59,7 @@ The following five classification models were implemented:
 | ML Model Name | Observation about model performance |
 |---|---|
 | Decision Tree | Accuracy=0.9087, AUC=0.8535, Precision=0.6050, Recall=0.5463, F1=0.5742, MCC=0.5241. |
-| Random Forest | Accuracy=0.9193, AUC=0.9466, Precision=0.7097, Recall=0.4795, F1=0.5723, MCC=0.5420. |
+| Random Forest | Accuracy=0.9116, AUC=0.9435, Precision=0.7809, Recall=0.2996, F1=0.4330, MCC=0.4492. |
 | Logistic Regression | Accuracy=0.9166, AUC=0.9424, Precision=0.7118, Recall=0.4364, F1=0.5411, MCC=0.5162. |
 | kNN | Accuracy=0.9082, AUC=0.8993, Precision=0.6419, Recall=0.4192, F1=0.5072, MCC=0.4717. |
 | Naive Bayes | Accuracy=0.8203, AUC=0.8393, Precision=0.3495, Recall=0.6907, F1=0.4642, MCC=0.4009. |
